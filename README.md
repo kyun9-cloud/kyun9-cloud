@@ -21,8 +21,8 @@
     </thead>
     <tbody>
         <tr>
-            <td ><center>끈기와 열정 넘치는</center></td>
-            <td><center>차분하지만 강한</center></td>
+            <td ><center>#클라이밍</center></td>
+            <td><center>#밴드</center></td>
         </tr>
     </tbody>
 
