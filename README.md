@@ -15,14 +15,14 @@
 <table>
     <thead>
         <tr>
-            <th><center><img src="./img/climbing.png" alt="climbing bear" style="height:240px;"></center></th>
             <th><center><img src="./img/band.png" alt="listening bear" style="height:240px;"></center></th>
+            <th><center><img src="./img/climbing.png" alt="climbing bear" style="height:240px;"></center></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td ><center>#클라이밍</center></td>
             <td><center>#밴드</center></td>
+            <td ><center>#클라이밍</center></td>
         </tr>
     </tbody>
 
