@@ -27,6 +27,8 @@
     </tbody>
 
 </table>
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+<img src='https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white'>
 
 ### 📘 History
 
