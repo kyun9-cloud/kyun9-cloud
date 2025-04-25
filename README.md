@@ -25,9 +25,37 @@
             <td><center>차분하지만 강한</center></td>
         </tr>
     </tbody>
-    
+
 </table>
 
+### History
+
+<table>
+  <thead>
+    <tr>
+      <th>근무처</th>
+      <th>프로젝트</th>
+      <th>기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>역학연구실</td>
+      <td>대한민국 식품/의약품 데이터베이스 구축</td>
+      <td>2022.9 ~ 2022.10</td>
+    </tr>
+    <tr>
+      <td>서울대학교병원</td>
+      <td>당뇨 영양지원 환자를 위한 ONS 결정모델</td>
+      <td>2024.9 ~ 2024.12</td>
+    </tr>
+    <tr>
+      <td>한국식품진흥원</td>
+      <td>아데닌 독성기준 수립</td>
+      <td>2023.7 ~ 2023.8</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 💻 Tech
 
