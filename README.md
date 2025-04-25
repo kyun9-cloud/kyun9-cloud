@@ -15,8 +15,8 @@
 <table>
     <thead>
         <tr>
-            <th><center><img src="./img/climbing.png" alt="flaticon" style="height:150px;"></center></th>
-            <th><center><img src="./img/band.png" alt="gravisio" style="height:150px;"></center></th>
+            <th><center><img src="./img/climbing.png" alt="climbing bear" style="height:240px;"></center></th>
+            <th><center><img src="./img/band.png" alt="listening bear" style="height:240px;"></center></th>
         </tr>
     </thead>
     <tbody>
