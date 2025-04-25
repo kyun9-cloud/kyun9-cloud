@@ -6,7 +6,7 @@
 <div align="center">
 
 <h3>
-    📈 저는 데이터를 분석하는 데 강하고, <br>"왜?"라는 질문으로 사고하는 개발자입니다 👩‍🚀
+    📈 저는 데이터를 통해 <br>"왜?"라는 질문을 던지는 개발자입니다 👩‍🚀
 </h3>
 
 
@@ -28,7 +28,7 @@
 
 </table>
 
-### History
+### 📘 History
 
 <table>
   <thead>
@@ -45,23 +45,22 @@
       <td>2022.9 ~ 2022.10</td>
     </tr>
     <tr>
-      <td>서울대학교병원</td>
-      <td>당뇨 영양지원 환자를 위한 ONS 결정모델</td>
-      <td>2024.9 ~ 2024.12</td>
-    </tr>
-    <tr>
       <td>한국식품진흥원</td>
       <td>아데닌 독성기준 수립</td>
       <td>2023.7 ~ 2023.8</td>
+    </tr>
+    <tr>
+      <td>서울대학교병원</td>
+      <td>당뇨 영양지원 환자를 위한 ONS 결정모델</td>
+      <td>2024.9 ~ 2024.12</td>
     </tr>
   </tbody>
 </table>
 
 ### 💻 Tech
-
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+<img src = "https://sassoftware.github.io/python-sasctl/_static/sas_logo.svg" height="23">
 
 ### 🛠️ Tools
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
