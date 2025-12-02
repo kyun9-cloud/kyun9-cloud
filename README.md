@@ -51,7 +51,8 @@
 </table>
 
 <div align="center">
-<img width="100" height="100" alt="codduck" src="https://github.com/user-attachments/assets/dd8ac37e-48fe-43cd-be2d-6b24bd8381a3" href='https://codduck.tistory.com'/>
+<a href='https://codduck.tistory.com'>
+<img width="100" height="100" alt="codduck" src="https://github.com/user-attachments/assets/dd8ac37e-48fe-43cd-be2d-6b24bd8381a3" /></a>
 <br/>티스토리에서 프로젝트 및 공부 기록을 확인하실 수 있습니다.
 </div>
 
