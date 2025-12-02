@@ -1,8 +1,11 @@
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=200&section=header&text=🐻&fontSize=90)
-
 <h3>
-    안정적이고 직관적인 서비스로 사용자가 몰입할 수 있는 환경을 만듭니다.
+    안녕하세요, 곽예경입니다. 👋
 </h3>
+   <h4>안정적이고 직관적인 서비스로 사용자가 몰입할 수 있는 환경을 만듭니다.</h4> 
+</div>
 
 
 
@@ -21,13 +24,13 @@
     <tr>
       <td>프로 디지털 아카데미</td>
       <td><a href='https://github.com/kyun9-cloud/SOL-Assistant-frontend'>SOL 어시스턴트</a></td>
-      <td>FE</td>
+      <td>FE & 디자인</td>
       <td>2025.9 ~ 2025.10</td>
     </tr>
     <tr>
       <td>프로 디지털 아카데미</td>
       <td><a href='https://github.com/kyun9-cloud/Candly-Client'>Candly</a></td>
-      <td>FE</td>
+      <td>FE & 디자인</td>
       <td>2025.7 ~ 2025.8</td>
     </tr>
     <tr>
@@ -39,6 +42,11 @@
   </tbody>
 </table>
 
+[![Tistory](https://img.shields.io/badge/Tistory-EB6552?logo=tistory&logoColor=fff)](https://codduck.tistory.com)
+
+프로젝트 로그와 공부한 내용을 확인하실 수 있습니다.
+
+
 ## 💻 Tech
 ### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -48,15 +56,18 @@
 ### Database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
-### Statistics
+### Statistic
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 [![sas](https://img.shields.io/badge/SAS-007CC3?logo=sas&logoColor=fff)](#)
+### Tools
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
-## ✉️ Social
-[![Tistory](https://img.shields.io/badge/Tistory-EB6552?logo=tistory&logoColor=fff)](https://codduck.tistory.com)
-프로젝트 로그와 공부한 내용을 기록하고 있습니다.
 
+## ✉️ Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kyun9.k@gmail.com)
-kyun9.k@gmail.com
+
+
+
 
