@@ -31,21 +31,21 @@
       <td><a href='https://github.com/kyun9-cloud/SOL-Assistant-frontend'>SOL 어시스턴트</a></td>
       <td>FE&디자인</td>
         <td>사용자 행동 데이터 기반 개인화 UI 제작</td>
-      <td>2025.9 ~ 2025.10</td>
+      <td>2025.9~10</td>
     </tr>
     <tr>
       <td>프로 디지털 아카데미</td>
       <td><a href='https://github.com/kyun9-cloud/Candly-Client'>Candly</a></td>
       <td>FE&디자인</td>
       <td>대량 차트 데이터 기반 시각화 버그 해결</td>
-      <td>2025.7 ~ 2025.8</td>
+      <td>2025.7~8</td>
     </tr>
     <tr>
       <td>역학연구실</td>
       <td>대한민국 의약품 데이터베이스 구축</td>
       <td>데이터</td>
         <td>자동화 시스템 개발로 오류율 개선</td>
-      <td>2022.9 ~ 2022.10</td>
+      <td>2022.9~10</td>
     </tr>
   </tbody>
 </table>
