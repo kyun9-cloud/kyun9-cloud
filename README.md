@@ -79,8 +79,7 @@
 
 
 ## ✉️ Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kyun9.k@gmail.com)
-
+kyun9.k@gmail.com
 
 
 
