@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src='https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=200&section=header&text=🐻&fontSize=90'/>
+<img src='https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=200&section=header&text=🦆&fontSize=90'/>
     
 <h3>
     안녕하세요, 곽예경입니다. 👋
